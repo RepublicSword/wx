@@ -1,0 +1,7 @@
+<!--pages/establish/establish.wxml-->
+<text>pages/establish/establish.wxml</text>
+
+     <view class="button-sp-area">
+       <button bindtap="mode1">预女猎白</button>
+      <button bindtap="mode2">狼美人</button>
+   </view>

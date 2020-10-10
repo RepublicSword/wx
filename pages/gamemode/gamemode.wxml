@@ -1,0 +1,8 @@
+<!--pages/gamemode/gamemode.wxml-->
+<text>pages/gamemode/gamemode.wxml</text>
+   <view>   
+房间号：{{roomNum}}
+   </view>
+   <view class="button-sp-area">
+       <button bindtap="distribute" disabled="{{isMaster}}">发牌</button>
+   </view>
